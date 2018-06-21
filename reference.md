@@ -21,3 +21,5 @@
 
 * [网络编程原理](https://www.jianshu.com/p/1dc758c24722)
 * [网络编程之理论篇](https://juejin.im/post/5a535f8b518825733060c7bd)
+* [学习Web 开发的最佳实践 - HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)
+* [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html)
