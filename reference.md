@@ -16,6 +16,7 @@
 * [The C10K problem](http://www.kegel.com/c10k.html)
 * [Python Realtime](http://python.jobbole.com/85296/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
 * [python Gevent – 高性能的Python并发框架](https://blog.csdn.net/freeking101/article/details/53097420)
+* [[Python]Tornado异步原理详析](https://blog.csdn.net/cn_wk/article/details/80219876)
 
 # Linux
 
@@ -74,3 +75,15 @@
 
 * [深入理解异步Web服务器 Tornado](http://python.jobbole.com/83826/)
 * [Tornado中文文档](http://tornado-zh.readthedocs.io/zh/latest/index.html)
+
+# 操作系统
+
+* [文件描述符](https://zh.wikipedia.org/zh-hans/%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6)
+* [文件描述符（File Descriptor）简介](https://segmentfault.com/a/1190000009724931)
+
+# 未分类
+
+* [基于不同I/O策略的服务器模型](http://strawhatfy.github.io/2015/04/22/IO-strategies-server/)
+* [tornado：IOLoop模块解析](http://strawhatfy.github.io/2015/04/22/IOLOOP/)
+* [网络IO之阻塞、非阻塞、同步、异步总结](https://www.cnblogs.com/Anker/p/3254269.html)
+* [IO - 同步，异步，阻塞，非阻塞 （亡羊补牢篇）](https://blog.csdn.net/historyasamirror/article/details/5778378)
