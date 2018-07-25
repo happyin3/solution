@@ -1,3 +1,8 @@
 * [python模块介绍- select 等待I/0完成](https://my.oschina.net/u/1433482/blog/191211)
 * [首先列一下，sellect、poll、epoll三者的区别 ]http://www.cnblogs.com/coser/archive/2012/01/06/2315216.html()
 * [Select 模型简介](http://python.jobbole.com/84058/)
+* [Non-blocking I/O with regular files](https://www.remlab.net/op/nonblock.shtml)
+* [用Tornado能异步操作文件系统IO么？](https://www.v2ex.com/t/48765)
+* [Python epoll编程：实现一个ioloop](https://blog.csdn.net/wentyoon/article/details/77898890)
+* [epoll 或者 kqueue 的原理是什么？](https://www.zhihu.com/question/20122137)
+* [再谈Linux epoll惊群问题的原因和解决方案](https://www.imooc.com/article/40708?block_id=tuijian_wz#)

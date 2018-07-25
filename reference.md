@@ -87,3 +87,7 @@
 * [tornado：IOLoop模块解析](http://strawhatfy.github.io/2015/04/22/IOLOOP/)
 * [网络IO之阻塞、非阻塞、同步、异步总结](https://www.cnblogs.com/Anker/p/3254269.html)
 * [IO - 同步，异步，阻塞，非阻塞 （亡羊补牢篇）](https://blog.csdn.net/historyasamirror/article/details/5778378)
+* [使用tornado让你的请求异步非阻塞](http://www.dongwm.com/archives/shi-yong-tornadorang-ni-de-qing-qiu-yi-bu-fei-zu-sai/)
+* [[Python]Tornado异步原理详析](https://blog.csdn.net/cn_wk/article/details/80219876)
+* [tornado + peewee-async 异步ORM](https://blog.csdn.net/duxiangwushirenfei/article/details/79488617)
+* [Tornado 异步协程coroutine原理](https://www.jianshu.com/p/d63a0ab93805)
